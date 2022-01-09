@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav a{
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+    padding-left: 200px;
+    text-decoration: none;
+    background-color: red;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+background: linear-gradient(orange,blue);
+}
+
+.hero1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+background: linear-gradient(orange,blue);
+}
+
+
+.hero2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+background: linear-gradient(orange,blue);
+}
+
+
+img{
+    height: 400px;
+    width: 400px;border-radius: 50%;
+    padding-right: 0;
+    margin-right: 0;
+}
+ .top{
+     display: flex;
+     flex-direction: column;
+ }
+
+ h2{
+     font-size: 50px;
+     color: red;
+     font-weight: bolder;
+     font-family: sans-serif;
+ }
+
+ p{
+     font-size: 40px;
+     letter-spacing: 2px;
+     line-height: 50px;
+ }
+
+ .fas fa-user{
+     height: 20px;
+ }
